@@ -12,6 +12,7 @@
 	<groupId>com.pharma.targeting</groupId>
 	<artifactId>pharma-eshot-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>pharma-eshot-service</name>
 	<description>Pharma Targeting Eshot using Spring Boot</description>
 	<properties>
